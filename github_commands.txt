@@ -5,5 +5,7 @@ git init ///to initialize folder
 git remote add origin https://github.com/richardquagnitia/ApposDesktop.git
 git add . //will keep ready to upload all the files on git
 git commit -m "First Git Upload" //This will commit the files to git and be ready to be pushed
-git push origin master
+git push origin master // pust into server
+go to Manage windows credentials to remove old records
+
 
