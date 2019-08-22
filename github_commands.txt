@@ -1,0 +1,3 @@
+cd d:/    //This will go to d 
+cd myApp/ //This will go to the directory
+cd ..  //this will come to paraent directory
